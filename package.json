@@ -1,8 +1,8 @@
 {
-  "name": "code-with-nawaz-todo-list-app",
+  "name": "code_with_nawaz1977_todo_updated_list_application",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
+  "main": "main.js",
   "type": "module",
   "bin":"main.js",
   "scripts": {
